@@ -1,2 +1,2 @@
 # projet_robinet
-Un magnifique projet sur un robinet
+A project on a water flow sensor for shower
